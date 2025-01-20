@@ -1,1 +1,2 @@
 SBG_FGSPIN.340Y.ORC22v8034_22501231_stomate_rest.nc filter=lfs diff=lfs merge=lfs -text
+CNP2/CNP13.global.halfdeg.trendyv10.spinup.1700_13001231_stomate_rest.nc filter=lfs diff=lfs merge=lfs -text
